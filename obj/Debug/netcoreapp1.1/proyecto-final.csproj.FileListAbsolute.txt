@@ -1,0 +1,11 @@
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\bin\Debug\netcoreapp1.1\proyecto-final.deps.json
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\bin\Debug\netcoreapp1.1\proyecto-final.runtimeconfig.json
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\bin\Debug\netcoreapp1.1\proyecto-final.runtimeconfig.dev.json
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\bin\Debug\netcoreapp1.1\proyecto-final.dll
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\bin\Debug\netcoreapp1.1\proyecto-final.pdb
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.csproj.CoreCompileInputs.cache
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.AssemblyInfo.cs
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.dll
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.pdb
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.csprojAssemblyReference.cache
+C:\Users\aperez\Documents\Visual Studio 2017\Projects\proyecto-final\proyecto-final\obj\Debug\netcoreapp1.1\proyecto-final.AssemblyInfoInputs.cache
